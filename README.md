@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @SnakeGandhi
-- 👀 I’m interested in web development, music, philosophy & theology, & my family. 
-- 🌱 I’m currently learning full stack web development on The Odin Project! 
-- 💞️ I’m looking to collaborate on baby steps teehee.
-- 📫 How to reach me: ???
+Hello, I'm Anthony. I am a teacher in the Eastern US. I have a BA in Philosophy and a Master's in Theology (Go Duke), now turning my attention to learning web development to better support my family. I began The Odin Project around Christmas '21, and my goal is to continue working as a secondary school teacher while studying and practicing. 
